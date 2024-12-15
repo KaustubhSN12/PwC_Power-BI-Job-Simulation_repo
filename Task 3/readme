@@ -1,1 +1,87 @@
+# README: Customer Churn Analysis and Recommendations
+
+## Overview
+
+This document details the analysis performed for **PhoneNow**, focusing on customer churn trends using the provided data. The analysis aimed to identify key factors driving churn and propose actionable recommendations to enhance customer retention.
+
+## Objective
+
+The primary objective of this project was to:
+1. Analyze customer churn data to uncover patterns and insights.
+2. Develop actionable recommendations to reduce churn and improve customer retention.
+3. Present findings and strategies in a clear, data-driven format.
+
+## Data Sources
+
+The data utilized for this analysis included:
+1. **Customer Subscription Information**: Details of services signed up by customers (e.g., internet, streaming services, device protection).
+2. **Demographic Information**: Gender, age range, partner and dependent status.
+3. **Account Information**: Duration as a customer, contract type, payment method, paperless billing, monthly and total charges.
+4. **Service Interaction Data**: Number of tickets opened for administrative and technical issues.
+
+These inputs were provided by PhoneNow's Retention Manager, Janet, in the [reference document](PhoneNow%20referance%20mail.pdf).
+
+## Analysis Process
+
+The analysis was conducted using **Microsoft Power BI**, with the following steps:
+
+1. **Data Cleaning and Preparation**:
+   - Checked for missing or inconsistent data.
+   - Ensured data accuracy for key metrics like monthly charges and churn status.
+
+2. **Dashboard Creation**:
+   - Developed an interactive dashboard to visualize churn trends and customer behavior.
+   - Created filters to segment data by contract type, payment method, and add-on services.
+
+3. **Insight Extraction**:
+   - Analyzed correlations between churn and variables such as contract type, payment method, and demographic characteristics.
+   - Identified high-risk groups based on their likelihood of churning.
+
+## Key Findings
+
+1. **High Churn Rate**:
+   - The overall churn rate is **27%**, with month-to-month contracts being the most significant contributor.
+
+2. **Payment Method Impact**:
+   - Customers using **electronic check** as their payment method have a higher churn rate compared to those using automated payments (bank transfer or credit card).
+
+3. **Service and Add-On Analysis**:
+   - Customers lacking add-ons such as **device protection** or subscribed to **fiber optic internet services** are more likely to churn.
+
+4. **Demographic Trends**:
+   - Senior citizens and customers without partners exhibit a higher churn tendency.
+
+## Recommendations
+
+1. **Enhance Contractual Offerings**:
+   - Provide incentives for customers on month-to-month contracts to switch to longer-term subscriptions, such as discounts or added benefits.
+
+2. **Refine Payment Options**:
+   - Launch campaigns to encourage customers to switch from electronic checks to automated payment methods for better retention.
+
+3. **Promote Add-On Services**:
+   - Design bundles that include critical add-ons like device protection and offer them at discounted rates to improve satisfaction.
+
+4. **Targeted Retention Strategies**:
+   - Implement personalized retention strategies focusing on **senior citizens** and customers without partners, using tailored messaging and offers.
+
+## Deliverables
+
+1. **Interactive Power BI Dashboard**:
+   - Provides a comprehensive view of customer churn trends and insights.
+   - Includes filters and visualizations for detailed analysis.
+
+2. **Summary Report**:
+   - Key findings and recommendations shared via email with the engagement partner, as detailed in [this document](short%20email%20to%20the%20engagement%20partner_My%20Submisson.txt).
+
+## Contact
+
+For questions or further clarification, please reach out to:
+
+**Kaustubh Narayankar**  
+ 
+
+---
+
+This analysis provides actionable insights to help PhoneNow reduce churn and foster long-term customer loyalty.
 
