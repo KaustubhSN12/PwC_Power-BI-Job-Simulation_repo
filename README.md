@@ -1,6 +1,5 @@
 # PwC_Power-BI-Job-Simulation_repo
 
-
 # Power BI Job Simulation - PwC Switzerland
 
 Welcome to the repository showcasing my completion of the Power BI Job Simulation Program offered by PwC Switzerland. This program has equipped me with essential skills to analyze data, create compelling visualizations, and deliver actionable insights.
@@ -37,6 +36,27 @@ This repository includes:
 2. **Documentation**: Detailed explanations of KPIs, measures, and insights.
 3. **Sample Insights**: Examples of patterns and actionable outcomes derived from the data.
 4. **Certificate**: My program completion certificate.
+
+---
+
+## Additional Learning Resources
+During the program, I explored the following resources to further enhance my knowledge:
+
+### Videos:
+- [What is Power BI?](https://www.youtube.com/watch?v=yKTSLffVGbk)
+- [How to Calculate Measures in Power BI](https://www.youtube.com/watch?v=yKTSLffVGbk)
+
+### Podcasts:
+- [PwC's Tech While You Trek: Data Visualization](https://pwctechwhileyoutrek.buzzsprout.com/1150349/episodes/4885124-pwc-s-tech-while-you-trek-data-visualization)
+- [PwC's Tech While You Trek: PwC's Digital Upskilling Journey](https://pwctechwhileyoutrek.buzzsprout.com/1150349/episodes/5001527-pwc-s-tech-while-you-trek-pwc-s-digital-upskilling-journey)
+
+### Blog Posts:
+- [Why Inclusion and Diversity Should Be on Every Internal Audit Function's Plan This Year](https://www.pwc.com/us/en/services/consulting/business-transformation/workforce-transformation.html)
+- [Examining Your HR and People Data](https://www.pwc.com/us/en/services/consulting/business-transformation/workforce-transformation.html)
+
+### Articles:
+- [Transforming Your Workforce Through Upskilling](https://www.pwc.com/us/en/tech-effect/automation.html)
+- [How We Teach Digital Skills at PwC](https://hbr.org/2018/10/how-we-teach-digital-skills-at-pwc)
 
 ---
 
