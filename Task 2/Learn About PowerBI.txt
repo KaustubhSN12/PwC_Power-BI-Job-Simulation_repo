@@ -1,0 +1,32 @@
+What is Power BI ?
+
+https://www.youtube.com/watch?v=yKTSLffVGbk
+
+Do you want to learn more? Level up by listening to a portion (or all!) of our podcasts linked below and read our articles. 
+
+Podcasts
+
+PwC's Tech While You Trek: Data Visualization (https://pwctechwhileyoutrek.buzzsprout.com/1150349/episodes/4885124-pwc-s-tech-while-you-trek-data-visualization )
+PwC's Tech While You Trek: PwC's Digital Upskilling Journey (https://pwctechwhileyoutrek.buzzsprout.com/1150349/episodes/5001527-pwc-s-tech-while-you-trek-pwc-s-digital-upskilling-journey) 
+
+
+ESG Insights: Diversity, equity and inclusion (https://www.pwc.com/us/en/services/esg/podcasts-webcasts.html) 
+Examining your HR and people data (https://www.pwc.com/us/en/services/consulting/business-transformation/workforce-transformation.html) 
+
+Further information
+
+Transforming your workforce through upskilling (https://www.pwc.com/us/en/tech-effect/automation.html)
+Workforce of the Future (https://www.pwc.com/us/en/services/consulting/business-transformation/workforce-transformation.html)
+Upskilling: Creating a secure future through digital skills
+How we teach digital skills at PwC (https://hbr.org/2018/10/how-we-teach-digital-skills-at-pwc)
+
+
+How to calculate measures in Power BI:
+
+https://www.youtube.com/watch?v=yKTSLffVGbk
+
+https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-measures
+
+Blog post
+
+Why Inclusion and Diversity should be on every Internal Audit function’s plan this year
