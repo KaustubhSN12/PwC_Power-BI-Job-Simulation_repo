@@ -79,7 +79,7 @@ Completing this program not only deepened my knowledge of Power BI but also enha
 ---
 
 ## Certificate of Completion
-![Certificate](certificate.png)
+![Certificate]([certificate.png](https://github.com/KaustubhSN12/PwC_Power-BI-Job-Simulation_repo/blob/main/Certificate.pdf))
 
 ---
 
