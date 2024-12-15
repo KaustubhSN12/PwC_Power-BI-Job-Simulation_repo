@@ -1,1 +1,78 @@
 
+# Power BI Report - PwC Job Simulation Program
+
+This repository contains all the files and reports related to the Power BI Job Simulation Program provided by PwC Switzerland. The tasks demonstrate my ability to analyze data, build dashboards, and provide actionable insights using Power BI.
+
+---
+
+## Project Overview
+The program focused on building proficiency in Power BI by solving real-world business problems. Tasks included data cleaning, defining KPIs, creating measures, and designing dashboards. The goal was to deliver insights that drive data-informed decision-making.
+
+---
+
+## Files in this Repository
+
+### 1. **[Learn About Power BI.txt](Learn%20About%20PowerBI.txt)**
+   - This text file contains links to videos, podcasts, and articles that helped deepen my understanding of Power BI and its business applications. Topics covered include:
+     - **What is Power BI?** ([Video Link](https://www.youtube.com/watch?v=yKTSLffVGbk))
+     - **How to Calculate Measures in Power BI** ([Tutorial Link](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-measures))
+     - **PwC's Digital Upskilling Journey** ([Podcast Link](https://pwctechwhileyoutrek.buzzsprout.com/1150349/episodes/5001527-pwc-s-tech-while-you-trek-pwc-s-digital-upskilling-journey))
+   
+### 2. **[01 Call-Center-Dataset.xlsx](01%20Call-Center-Dataset.xlsx)**
+   - The raw dataset used in this project. It contains call center performance metrics, such as:
+     - Call volume
+     - Average handling time
+     - Customer satisfaction
+   - This data was processed and visualized using Power BI.
+
+### 3. **[Task2_Model Answer.pbix](Task2_Model%20Answer.pbix)**
+   - A reference Power BI dashboard provided as part of the program. It demonstrates best practices in designing dashboards and analyzing data.
+
+### 4. **[Task2_My Submission.pbix](Task2_My%20Submission.pbix)**
+   - My Power BI submission for Task 2. This file showcases:
+     - Data cleaning and transformation.
+     - Custom measures for KPIs like Average Handling Time and Call Resolution Rate.
+     - Interactive dashboards for performance analysis and actionable insights.
+
+---
+
+## Key Insights and Learnings
+### 1. Data Analysis
+- Cleaned and transformed raw call center data for better usability.
+- Created calculated columns and measures to evaluate key metrics.
+
+### 2. Dashboard Design
+- Built an interactive Power BI dashboard that includes:
+  - **Call Volume Trends**: Analyzed weekly and monthly patterns.
+  - **Customer Satisfaction**: Highlighted satisfaction scores and areas for improvement.
+  - **Team Performance**: Visualized individual and team-level performance metrics.
+
+### 3. Actionable Insights
+- Identified peak call times to optimize resource allocation.
+- Highlighted factors impacting customer satisfaction.
+- Recommended strategies to reduce average handling time.
+
+---
+
+## Additional Learning Resources
+Below are some additional resources explored during the program:
+- **[PwC's Tech While You Trek: Data Visualization](https://pwctechwhileyoutrek.buzzsprout.com/1150349/episodes/4885124-pwc-s-tech-while-you-trek-data-visualization)**
+- **[Transforming Your Workforce Through Upskilling](https://www.pwc.com/us/en/tech-effect/automation.html)**
+- **[How We Teach Digital Skills at PwC](https://hbr.org/2018/10/how-we-teach-digital-skills-at-pwc)**
+
+---
+
+## How to Use This Repository
+1. Download the `.pbix` files and open them in Power BI Desktop.
+2. Review the `01 Call-Center-Dataset.xlsx` to understand the raw data.
+3. Explore the dashboards to visualize and analyze the insights derived from the data.
+
+---
+
+## Connect with Me
+- **LinkedIn:** [Kaustubh Narayankar](https://www.linkedin.com/in/kaustubh-narayankar-6651a9249/)
+- **GitHub:** [Kaustubh Narayankar](https://github.com/KaustubhSN12)
+
+---
+
+Feel free to explore the repository, provide feedback, or connect for collaboration!
