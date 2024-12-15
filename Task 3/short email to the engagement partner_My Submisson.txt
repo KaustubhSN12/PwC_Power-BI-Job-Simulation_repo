@@ -1,0 +1,29 @@
+Subject: Key Findings and Recommendations from Customer Churn Analysis
+
+Dear Janet Retention Manager,
+
+After analyzing the data from the Customer Churn Insights Dashboard, here are the key findings:
+
+High Churn Rate: The overall churn rate stands at 27%, with month-to-month contracts being a significant driver of this trend.
+Payment Method Correlation: Customers using electronic check as their payment method exhibit a higher churn rate compared to other methods like bank transfer or credit card.
+Service and Add-On Impact: Customers without add-ons such as device protection are more likely to churn, especially those subscribed to fiber optic internet services.
+Demographic Trends: There is a notable churn tendency among customers without partners, particularly in the senior citizen demographic.
+
+Recommendations for Improvement:
+
+Enhance Contractual Offerings: Introduce incentives, such as discounts or added benefits, for customers on month-to-month contracts to promote longer-term subscriptions.
+Refine Payment Options: Consider targeted campaigns to shift customers away from electronic checks to automated payment methods for greater retention.
+Upsell Add-On Services: Promote bundles that include critical add-ons like device protection to improve customer satisfaction and reduce churn.
+Targeted Retention Strategies: Design personalized retention campaigns for high-risk groups, focusing on senior citizens and customers without partners.
+
+
+Please let me know if you’d like a detailed walkthrough of the dashboard or further refinements to support these strategies.
+
+Looking forward to your feedback.
+
+Best regards,
+Kaustubh Narayankar
+Digital Accelerator
+
+
+ 
